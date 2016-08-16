@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Free Real Estate Plugin",
-  "description": "... free real estate",
+  "name": "Free Real Estate",
+  "description": "It's a free house Jim",
   "version": "1.5",
 
   "browser_action": {
